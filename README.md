@@ -1,7 +1,8 @@
 # mobile_game_project
 
-##장르
-2d액션+로그라이트-
+## 장르
+
+--2d액션+로그라이트--
 
 소울 나이트 [소울나이트 게임플레이](https://www.youtube.com/shorts/Yy7cI01HOEE)
 
